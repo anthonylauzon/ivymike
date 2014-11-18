@@ -1,0 +1,1 @@
+depends "build-essential"
