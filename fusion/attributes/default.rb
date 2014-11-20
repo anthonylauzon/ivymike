@@ -1,1 +1,1 @@
-default['fusion']['config_parameter'] = 1
+default['fusion']['config_parameter'] = 2
